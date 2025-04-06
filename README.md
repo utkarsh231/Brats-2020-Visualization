@@ -50,5 +50,5 @@ The script generates visualizations including:
 - Animated GIFs and videos showing MRI data in 3D.
 
 ## Author
-Adapted for BraTS 2020 visualization tasks.
+@utkarsh231
 
